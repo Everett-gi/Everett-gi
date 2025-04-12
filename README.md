@@ -79,10 +79,10 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 </h3>
 
    <p align="left">
-      <a href="https://github.com/Everett-gi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula&cache_seconds=60"/>
-      </p>
+          <a href="https://github.com/Everett-gi">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=60"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula&cache_seconds=60"/>
+          </p>
 </div>
 <br>
 <br>    
