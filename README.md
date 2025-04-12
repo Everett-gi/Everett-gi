@@ -86,7 +86,6 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 </div>
 <br>
 <br>    
-
    ![Snake animation](https://github.com/Everett-gi/Everret-gi/blob/output/github-contribution-grid-snake-dark.svg)
 
 #
