@@ -50,6 +50,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
       <img align="center" alt="Gi-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Gi-Git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
          <br>
+      <img align="center" alt="Gi-Git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
       <img align="center" alt="Gi-MariaDB" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
       <img align="center" alt="Gi-Postgre" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
       <img align="center" alt="Gi-Dbeaver" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
