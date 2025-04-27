@@ -79,8 +79,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 <br>
     <p align="left">
     <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:gmonteiro0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br>    
+    <a href = "mailto:gmonteiro0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
     <a href="https://instagram.com/gil_dkaiser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      </p>
 
@@ -92,8 +91,8 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 
 <p align="center">
   <a href="https://github.com/Everett-gi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=60"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula&cache_seconds=60"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </p>
 
