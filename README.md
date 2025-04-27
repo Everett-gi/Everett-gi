@@ -16,15 +16,14 @@
 ---
 
 <div>
-<p align="center">Sou um programador Fullstack Jr apaixonado por tecnologia, puzzle e desenvolvimento web. Atualmente, possuo mais afinidade com as linguagens C, HTML, CSS e JS.
+<p align="center">I am a passionate Fullstack Jr Developer who loves technology, puzzles, and web development. Currently, I have greater affinity with the languages C, HTML, CSS, and JS.
 <br>
 <br>
-Tenho uma excelente noção de lógica de programação, o que me permite solucionar problemas de forma eficiente e estruturada. Estou sempre disposto a aprender e utilizar novas linguagens,
-adaptando-me rapidamente a diferentes tecnologias para entregar soluções inovadoras e eficazes.
+I have excellent programming logic skills, allowing me to solve problems efficiently and in a structured manner. I'm always eager to learn and utilize new languages, adapting quickly to different technologies to deliver innovative and effective solutions.
 <br>
 <br>
-Possuo excelentes habilidades de comunicação, administração e domínio das ferramentas do Microsoft Office. 
-Tenho certificações em desenvolvimento Front-End, Versionamento de código e segurança da informação.
+I have excellent communication, administration skills, and proficiency in Microsoft Office tools.
+I hold certifications in Front-End Development, Code Versioning, and Information Security.
 </p>
 </div>
 
@@ -42,29 +41,29 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
    </h3>
   <div style="display: inline_block">
     <h4>
-     Aqui estão as tecnologias com as quais tenho experiência:
+     Here are the technologies I have experience with:
     </h4>
 <br>
    <p align="left"> 
        <a href="https://www.feg.unesp.br/Home/PaginasPessoais/profmarcosapereira3168/programacaodecomputadoresi/manual-de-sintaxe-da-linguagem-c.pdf"> <img align="center" alt="Gi-C" height="60" width="80" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> </a>
-      <a href="https://www.w3schools.com/Js/"> <img align="center" alt="Gi-Js" height="60" width="80" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
-      <a href="https://www.w3schools.com/html/default.asp"> <img align="center" alt="Gi-HTML" height="60" width="80" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
+      <a href="https://www.w3schools.com/Js/"><img align="center" alt="Gi-Js" height="60" width="80" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+      <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Gi-HTML" height="60" width="80" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-      <a href="https://www.w3schools.com/css/default.asp"> <img align="center" alt="Gi-CSS" height="60" width="80" 
+      <a href="https://www.w3schools.com/css/default.asp"><img align="center" alt="Gi-CSS" height="60" width="80" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-      <a href="https://www.w3schools.com/git/default.asp"> <img align="center" alt="Gi-Git" height="60" width="80" 
+      <a href="https://www.w3schools.com/git/default.asp"><img align="center" alt="Gi-Git" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></a>
-      <a href="https://www.w3schools.com/java/default.asp"> <img align="center" alt="Gi-Java" height="60" width="80" 
+      <a href="https://www.w3schools.com/java/default.asp"><img align="center" alt="Gi-Java" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></a>
-      <a href="https://mariadb.com/kb/en/documentation/"> <img align="center" alt="Gi-MariaDB" height="30" width="80" 
+      <a href="https://mariadb.com/kb/en/documentation/"><img align="center" alt="Gi-MariaDB" height="30" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"></a>
-      <a href="https://www.w3schools.com/postgresql/index.php"> <img align="center" alt="Gi-Postgre" height="60" width="80" 
+      <a href="https://www.w3schools.com/postgresql/index.php"><img align="center" alt="Gi-Postgre" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></a>
-      <a href="https://dbeaver.com/docs/dbeaver/"> <img align="center" alt="Gi-Dbeaver" height="60" width="80" 
+      <a href="https://dbeaver.com/docs/dbeaver/"><img align="center" alt="Gi-Dbeaver" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"></a>
-      <a href="https://www.kali.org/docs/"> <img align="center" alt="Gi-Linux" height="60" width="80" 
+      <a href="https://www.kali.org/docs/"><img align="center" alt="Gi-Linux" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></a>
    </p> 
   </div>  
@@ -77,7 +76,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
      📲Connect with me!
  </h3>
     <h4>
-      Abaixo estão meus meios de contato de comunicação, sinta-se a vontade para entrar em contato comigo!
+      Below are my contact methods. Feel free to reach out to me!
     </h4>
 <br>
     <p align="left">
@@ -95,8 +94,8 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
 
 <p align="center">
   <a href="https://github.com/Everett-gi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Everett-gi&show_icons=true&rank_icons=github&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everett-gi&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </p>
 
@@ -106,7 +105,7 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
  
    ![Snake animation](https://github.com/Everett-gi/Everret-gi/blob/output/github-contribution-grid-snake-dark.svg)
 
-#
+---
 
 <img align="center" alt="Gi-gifCidade"  height="100%" src="./src/footer.gif" style="max-width: 600px; height: auto;" >
 
