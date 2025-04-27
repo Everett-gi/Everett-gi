@@ -54,17 +54,17 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
       <a href="https://www.w3schools.com/css/default.asp"> <img align="center" alt="Gi-CSS" height="60" width="80" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-Git" height="60" width="80" 
+      <a href="https://www.w3schools.com/git/default.asp"> <img align="center" alt="Gi-Git" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-Git" height="60" width="80" 
+      <a href="https://www.w3schools.com/java/default.asp"> <img align="center" alt="Gi-Java" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-MariaDB" height="30" width="80" 
+      <a href="https://mariadb.com/kb/en/documentation/"> <img align="center" alt="Gi-MariaDB" height="30" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-Postgre" height="60" width="80" 
+      <a href="https://www.w3schools.com/postgresql/index.php"> <img align="center" alt="Gi-Postgre" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-Dbeaver" height="60" width="80" 
+      <a href="https://dbeaver.com/docs/dbeaver/"> <img align="center" alt="Gi-Dbeaver" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"></a>
-      <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/"> <img align="center" alt="Gi-Linux" height="60" width="80" 
+      <a href="https://www.kali.org/docs/"> <img align="center" alt="Gi-Linux" height="60" width="80" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></a>
    </p> 
   </div>  
@@ -76,12 +76,16 @@ Tenho certificações em desenvolvimento Front-End, Versionamento de código e s
  <h3 align="left">
      📲Connect with me!
  </h3>
+    <h4>
+      Abaixo estão meus meios de contato de comunicação, sinta-se a vontade para entrar em contato comigo!
+    </h4>
 <br>
     <p align="left">
     <a href="https://www.linkedin.com/in/gildean-monteiro-do-nascimento-55aa252b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:gmonteiro0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
     <a href="https://instagram.com/gil_dkaiser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     </p>
+    <a href="https://wa.me/qr/SYZ2MLHVSAGHK1" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+    </p>
 
 </div>
 
