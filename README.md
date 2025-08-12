@@ -16,7 +16,7 @@
 ---
 
 <div>
-<p align="center">I am a passionate Fullstack Jr Developer who loves technology, puzzles, and web development. Currently, I have greater affinity with the languages C, HTML, CSS, and JS.
+<p align="center">I am a passionate Fullstack Jr Developer who loves technology, puzzles, and web development. Currently, I have greater affinity with the languages C, Java, HTML, CSS, and JS.
 <br>
 <br>
 I have excellent programming logic skills, allowing me to solve problems efficiently and in a structured manner. I'm always eager to learn and utilize new languages, adapting quickly to different technologies to deliver innovative and effective solutions.
